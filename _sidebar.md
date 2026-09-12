@@ -1,4 +1,5 @@
 * [**武士道（ホーム）**](README.md)
+* [制作日誌・更新履歴](blog.md)
 
 * **目次 / Contents**
   * [00. 序文 (Preface)](00.md)
